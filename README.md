@@ -1,2 +1,2 @@
 # Old-Repository
-Please check out my past repository &lt;https://github.com/Ballomizzy>
+Please check out my past repository < https://github.com/Ballomizzy >
